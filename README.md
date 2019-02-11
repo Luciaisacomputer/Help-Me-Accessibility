@@ -1,7 +1,7 @@
 # Help-Me-Accessibility
 A useful list of curated links organized by the category of disability and how to make content accessible for them.
 
-##General Tips
+## General Tips
 
 ### Visual
 
@@ -17,4 +17,4 @@ A useful list of curated links organized by the category of disability and how t
 
 ### Neurological
 
-##Specific Technology Features
+## Specific Technology Features
