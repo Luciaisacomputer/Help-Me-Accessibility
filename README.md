@@ -5,6 +5,7 @@ A useful list of curated links organized by the category of disability and how t
 
 ### Visual
 
+[Font Sizing and Contrast](http://haltersweb.github.io/Accessibility/font-sizing-and-contrast.html)
 [Accessible Emoji](https://tink.uk/accessible-emoji/)
 
 ### Auditory
