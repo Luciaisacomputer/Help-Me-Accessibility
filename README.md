@@ -52,3 +52,11 @@ AODA
 
 ## Design Tools
 [Stark](http://www.getstark.co/)
+
+## Screen Readers
+
+[NVDA](https://www.nvaccess.org/)
+[JAWS](http://www.freedomscientific.com/products/software/jaws/)
+[VoiceOver](https://www.apple.com/accessibility/mac/vision/)
+[Orca](https://wiki.gnome.org/Projects/Orca)
+
