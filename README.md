@@ -9,6 +9,12 @@ A useful list of curated links organized by the category of disability and how t
 
 [Accessible Emoji](https://tink.uk/accessible-emoji/)
 
+[Never Remove CSS Outlines](https://a11yproject.com/posts/never-remove-css-outlines/)
+
+[How to Design Useful Focus Indicators](https://www.deque.com/blog/give-site-focus-tips-designing-usable-focus-indicators/)
+
+[Numeronyms](https://a11yproject.com/posts/a11y-and-other-numeronyms/)
+
 ### Auditory
 
 [Complete Guide to Accessible Video and Audio for the Web](https://codepen.io/Stefany93/post/complete-guide-to-accessible-video-and-audio-for-the-web)
@@ -42,9 +48,12 @@ A useful list of curated links organized by the category of disability and how t
 ## Development and Testing Tools
 
 [Wave Browser Extensions](https://wave.webaim.org/extension/)
+
 [axe: the Accessibility Engine](https://www.deque.com/axe/)
+
 [Koa11y](https://open-indy.github.io/Koa11y/)
 
+[Asqatasun](https://asqatasun.org/)
 
 ## Business Cases and Studies for Accessibility
 
@@ -56,7 +65,10 @@ A useful list of curated links organized by the category of disability and how t
 ## Screen Readers
 
 [NVDA](https://www.nvaccess.org/)
+
 [JAWS](http://www.freedomscientific.com/products/software/jaws/)
+
 [VoiceOver](https://www.apple.com/accessibility/mac/vision/)
+
 [Orca](https://wiki.gnome.org/Projects/Orca)
 
