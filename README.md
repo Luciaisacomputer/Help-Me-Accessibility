@@ -28,15 +28,15 @@ A useful list of curated links organized by the category of disability and how t
 
 ## Accessibility Standards
 
-WCAG
+[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-Section 508
+[Section 508](https://www.section508.gov/)
 
-ADA
+[ADA](https://www.ada.gov/)
 
-CVAA
+[CVAA](https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa)
 
-AODA
+[AODA](https://accessontario.com/aoda/)
 
 
 ## Development and Testing Tools
