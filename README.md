@@ -15,6 +15,8 @@ A useful list of curated links organized by the category of disability and how t
 
 [Numeronyms](https://a11yproject.com/posts/a11y-and-other-numeronyms/)
 
+[Alt Decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
 ### Auditory
 
 [Complete Guide to Accessible Video and Audio for the Web](https://codepen.io/Stefany93/post/complete-guide-to-accessible-video-and-audio-for-the-web)
