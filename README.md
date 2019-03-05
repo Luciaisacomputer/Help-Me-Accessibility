@@ -34,6 +34,10 @@ A useful list of curated links organized by the category of disability and how t
 
 [Why using tabindex values greater than 0 is bad](http://www.karlgroves.com/2018/11/13/why-using-tabindex-values-greater-than-0-is-bad/)
 
+[Using Tab Index](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
+
+[Keyboard-Only Navigation for Improved Accessibility](https://www.nngroup.com/articles/keyboard-accessibility/)
+
 ## Accessibility Standards
 
 [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
