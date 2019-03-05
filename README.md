@@ -74,3 +74,7 @@ A useful list of curated links organized by the category of disability and how t
 
 [Orca](https://wiki.gnome.org/Projects/Orca)
 
+
+## General Knowledge
+
+[Making Accessibility Accessible: The Pour Principles](https://medium.com/the-school-of-do/making-accessibility-accessible-the-pour-principles-f5ad21eda12f)
