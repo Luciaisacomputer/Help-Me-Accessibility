@@ -86,3 +86,5 @@ A useful list of curated links organized by the category of disability and how t
 ## General Knowledge
 
 [Making Accessibility Accessible: The Pour Principles](https://medium.com/the-school-of-do/making-accessibility-accessible-the-pour-principles-f5ad21eda12f)
+
+[A warning about automated accessibility "warnings" - ](https://www.scottohara.me/blog/2019/03/26/a-warning-about-warnings.html)
