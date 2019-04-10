@@ -67,7 +67,9 @@ A useful list of curated links organized by the category of disability and how t
 
 [Contrast Grid](http://contrast-grid.eightshapes.com)
 
-(Contrast Checker](https://www.joedolson.com/tools/color-contrast.php#hex)
+[Contrast Checker](https://www.joedolson.com/tools/color-contrast.php#hex)
+
+[Chrome Lens](http://chromelens.xyz/)
 
 ## Business Cases and Studies for Accessibility
 
