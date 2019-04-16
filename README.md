@@ -71,6 +71,8 @@ A useful list of curated links organized by the category of disability and how t
 
 [Chrome Lens](http://chromelens.xyz/)
 
+[A11YGator](https://chrome.google.com/webstore/detail/a11ygator/imfmlpemomjmfncnmkjdeeinbkichaio/related?hl=en-US)
+
 ## Business Cases and Studies for Accessibility
 
 [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/)
