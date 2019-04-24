@@ -17,6 +17,8 @@ A useful list of curated links organized by the category of disability and how t
 
 [Alt Decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 
+[Inclusively Hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
+
 ### Auditory
 
 [Complete Guide to Accessible Video and Audio for the Web](https://codepen.io/Stefany93/post/complete-guide-to-accessible-video-and-audio-for-the-web)
