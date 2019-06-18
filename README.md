@@ -79,6 +79,8 @@ A useful list of curated links organized by the category of disability and how t
 
 [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/)
 
+[Accessible Design and Culture: Why it’s Better for Business and All Your Users](https://www.voices.com/blog/accessible-design/)
+
 ## Design Tools
 [Stark](http://www.getstark.co/)
 
